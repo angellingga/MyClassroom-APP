@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class WelcomeActivity extends AppCompatActivity {
-    //Perubahan
+    //Perubahan Data
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
